@@ -1,0 +1,5 @@
+.patlinode
+.gh_linode_pat
+efk-cluster-kubeconfig.yaml
+*.dev.yaml
+.idea
